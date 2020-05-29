@@ -9,7 +9,7 @@ function generateMarkdown(data) {
   ${data.githubusername}
 
 # Title:
-  ${data.title}
+  ${data.projecttitle}
 
 ## Description
   ${data.projectdescription}
