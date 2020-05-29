@@ -1,6 +1,33 @@
+
+
 function generateMarkdown(data) {
   return `
-# ${data.title}
+
+
+
+# Username:
+  ${data.githubusername}
+
+# Title:
+  ${data.title}
+
+## Description
+  ${data.projectdescription}
+
+## Install
+  ${data.projectinstall}
+
+## Usage
+  ${data.usage}
+
+## Licencse
+  ${data.licenses}
+
+## Contributing
+  ${data.contribute}
+
+## Tests
+  ${data.tests}
 
 `;
 }

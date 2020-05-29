@@ -32,7 +32,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "instructions",
+        name: "Usage",
         message: "what are the instructions for the project? Include possible screenshots",
     },
     {
@@ -47,15 +47,15 @@ const questions = [
     },
     {
         type: "input",
-        name: "contribute",
-        message: "Did anyone else contribute to this project?",
+        name: "tests",
+        message: "Did you create any tests?",
     },
 ];
 
 function writeToFile(fileName, data) {
     var fileName = 'README.md';
     fs.writeFile(fileName, data , "utf-8", function (err) {
-        if (err) throw errl;
+        if (err) throw err;
         console.log("Success!")
     });
 }
