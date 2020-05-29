@@ -14,6 +14,9 @@ function generateMarkdown(data) {
 ## Description
   ${data.projectdescription}
 
+## Table of Contents
+  
+
 ## Install
   ${data.projectinstall}
 

@@ -22,18 +22,13 @@ const questions = [
     },
     {
         type: "input",
-        name: "tableofcontents",
-        message: "List sections for your table of contents",
-    },
-    {
-        type: "input",
         name: "projectinstall",
         message: "Describe how to install the project?",
     },
     {
         type: "input",
-        name: "Usage",
-        message: "what are the instructions for the project? Include possible screenshots",
+        name: "usage",
+        message: "what are the instructions for the project?",
     },
     {
         type: "input",
