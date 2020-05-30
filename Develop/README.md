@@ -3,11 +3,11 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
-# Title:  The Blah Blah project
+# Title:  The Awesome Project
 
 
 ## Description
-  blahblahlskdjffffffffffffffffffffffffffffflasdjlkasjdklfjalskdjflaksjdflkjsadlkfjaslkdjfl;asjd;flakjsdl;fkja;lsdkjf;laskdjf;laksjdf;lkasjdfl;kajsdlkf;jaskl;dfjl;askdjflk;asjdflk;asjdflk;jas;ldkfjl;askdjf;laskdjfl;askdjfaslkd;fj
+  Well, let me tell you, it is pretty Awesome
 
 ## Table of Contents
   * [Install](#install)
@@ -17,22 +17,24 @@
   * [Tests](#tests)
 
 ## Install
-  lksdjflksdjfklsjdlkfjsdlkfjsldjflksdjflksdjflksdjf;lkasjdl;fkajs;dojweaoijlksadl;ka;sodnl;aksndflk;asjdfl;kajsdf
+  Just install Awesomeness
 
 ## Usage
-  lasdkfjl;askjdf;lajs;dlkfja;lskdjf;laksdjf;lkasdl;askmdflkasl;dkfja;lskdjf;oaskldjf;oaiwej;oiawejfoi;waje;oiafjewoiejfoiwjeokznoiwejlkd
+  Be Awesome
 
 ## Licencse
-  oawejowaolkejcoiaewioaoieajoiaweoawoindsoahoawlkndlkaowenlkasdnoi;lnal;sdolkadsnlof;oawoei;nao;iencoawneoinaweonaoewnoiwaneoienowenouenoeues
+  The Awesome Licence
 
 ## Contributing
-  lnoaienoicjowifnoaiwefoiwefoioifeiosiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiioaisjeoi;awjf;oiajwe;ofijw;oaeijf;oaiwejo;iwejo;iwe
+  Some other very Awesome people
 
 ## Tests
-  alijsfao;sdfo;iawejfo;awjeo;ijfao;weijf;oiwej;io
+  nope, its just so Awesome
 
-# Author:
+# Author: Merkraith
+
+mark.heil1122@gmail.com
 
 ![alt text](https://github.com/Merkraith.png)
 
-Merkraith
+
