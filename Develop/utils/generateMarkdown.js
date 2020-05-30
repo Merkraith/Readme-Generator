@@ -34,11 +34,11 @@ function generateMarkdown(data) {
 ## Tests
   ${data.tests}
 
-# Author:
+# Author: ${data.githubusername}
 
 ![alt text](https://github.com/${data.githubusername}.png)
 
-${data.githubusername}
+
 `;
 }
 
