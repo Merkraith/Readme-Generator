@@ -9,7 +9,7 @@
 
 
 ## Description
-  It is quite Awesome
+  It is the most Awesome project ever!
 
 ## Table of Contents
   * [Install](#install)
@@ -19,19 +19,19 @@
   * [Tests](#tests)
 
 ## Install
-  Just awesomely view it on the web
+  nope, its simple and awesome
 
 ## Usage
-  Be Awesome
+  Be Awesome!
 
 ## Licencse
   The Awesome Licence
 
 ## Contributing
-  Some awesome people
+  Some Awesome people!
 
 ## Tests
-  An Awesome Test
+  Just a how awesome is this test
 
 # Author: Merkraith
 
