@@ -6,8 +6,8 @@ function generateMarkdown(data) {
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
-# Title:
-  ${data.projecttitle}
+# Title:  ${data.projecttitle}
+
 
 ## Description
   ${data.projectdescription}
@@ -35,8 +35,10 @@ function generateMarkdown(data) {
   ${data.tests}
 
 # Author:
+
+![alt text](https://github.com/${data.githubusername}.png)
+
 ${data.githubusername}
-![alt text](https://github.com/${data.username}.png)
 `;
 }
 

@@ -3,11 +3,11 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
-# Title:
-  The Best Project Ever!
+# Title:  The Blah Blah project
+
 
 ## Description
-  It is simply the best, quite awesome!
+  blahblahlskdjffffffffffffffffffffffffffffflasdjlkasjdklfjalskdjflaksjdflkjsadlkfjaslkdjfl;asjd;flakjsdl;fkja;lsdkjf;laskdjf;laksjdf;lkasjdfl;kajsdlkf;jaskl;dfjl;askdjflk;asjdflk;asjdflk;jas;ldkfjl;askdjf;laskdjfl;askdjfaslkd;fj
 
 ## Table of Contents
   * [Install](#install)
@@ -17,20 +17,22 @@
   * [Tests](#tests)
 
 ## Install
-  Nothing to install, just visit the deployed page
+  lksdjflksdjfklsjdlkfjsdlkfjsldjflksdjflksdjflksdjf;lkasjdl;fkajs;dojweaoijlksadl;ka;sodnl;aksndflk;asjdfl;kajsdf
 
 ## Usage
-  It is just the best
+  lasdkfjl;askjdf;lajs;dlkfja;lskdjf;laksdjf;lkasdl;askmdflkasl;dkfja;lskdjf;oaskldjf;oaiwej;oiawejfoi;waje;oiafjewoiejfoiwjeokznoiwejlkd
 
 ## Licencse
-  nope
+  oawejowaolkejcoiaewioaoieajoiaweoawoindsoahoawlkndlkaowenlkasdnoi;lnal;sdolkadsnlof;oawoei;nao;iencoawneoinaweonaoewnoiwaneoienowenouenoeues
 
 ## Contributing
-  just me, im the best
+  lnoaienoicjowifnoaiwefoiwefoioifeiosiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiioaisjeoi;awjf;oiajwe;ofijw;oaeijf;oaiwejo;iwejo;iwe
 
 ## Tests
-  nope, cause its the best
+  alijsfao;sdfo;iawejfo;awjeo;ijfao;weijf;oiwej;io
 
 # Author:
+
+![alt text](https://github.com/Merkraith.png)
+
 Merkraith
-![alt text](https://github.com/undefined.png)
