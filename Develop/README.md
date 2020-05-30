@@ -3,14 +3,11 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
-# Username:
-  Merkraith
-
 # Title:
-  Final Fantasy Quiz
+  The Best Project Ever!
 
 ## Description
-  Javascript Quiz, answer questions, lose time for wrong answers, time left at the end of quiz results in score
+  It is simply the best, quite awesome!
 
 ## Table of Contents
   * [Install](#install)
@@ -20,17 +17,20 @@
   * [Tests](#tests)
 
 ## Install
-  Just visit the deployed page
+  Nothing to install, just visit the deployed page
 
 ## Usage
-  blah
+  It is just the best
 
 ## Licencse
-  none
+  nope
 
 ## Contributing
-  none
+  just me, im the best
 
 ## Tests
-  tests nope
+  nope, cause its the best
 
+# Author:
+Merkraith
+![alt text](https://github.com/undefined.png)
