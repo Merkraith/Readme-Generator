@@ -36,6 +36,7 @@ function generateMarkdown(data) {
 
 # Author:
 ${data.githubusername}
+![alt text](https://github.com/${data.username}.png)
 `;
 }
 
