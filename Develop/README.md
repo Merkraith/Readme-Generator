@@ -2,12 +2,14 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
 
 # Title:  The Awesome Project
 
 
 ## Description
-  Well, let me tell you, it is pretty Awesome
+  It is quite Awesome
 
 ## Table of Contents
   * [Install](#install)
@@ -17,7 +19,7 @@
   * [Tests](#tests)
 
 ## Install
-  Just install Awesomeness
+  Just awesomely view it on the web
 
 ## Usage
   Be Awesome
@@ -26,10 +28,10 @@
   The Awesome Licence
 
 ## Contributing
-  Some other very Awesome people
+  Some awesome people
 
 ## Tests
-  nope, its just so Awesome
+  An Awesome Test
 
 # Author: Merkraith
 
