@@ -1,28 +1,36 @@
 
 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
 # Username:
   Merkraith
 
 # Title:
-  undefined
+  Final Fantasy Quiz
 
 ## Description
-  It is the Awesomest
+  Javascript Quiz, answer questions, lose time for wrong answers, time left at the end of quiz results in score
+
+## Table of Contents
+  * [Install](#install)
+  * [Usage](#usage)
+  * [Licencse](#licencse)
+  * [Contributing](#Contributing)
+  * [Tests](#tests)
 
 ## Install
-  You install it by being awesome
+  Just visit the deployed page
 
 ## Usage
-  undefined
+  blah
 
 ## Licencse
-  MIT
+  none
 
 ## Contributing
-  My Awesome Dog
+  none
 
 ## Tests
-  nope
+  tests nope
 
