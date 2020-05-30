@@ -5,6 +5,8 @@ function generateMarkdown(data) {
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+
 
 # Title:  ${data.projecttitle}
 
