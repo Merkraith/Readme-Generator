@@ -5,11 +5,11 @@
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
 
-# Title:  The Awesome Project
+# Title:  Weather Dashboard
 
 
 ## Description
-  It is so Awesome
+  A desktop application for web browsers, that allows the user to search a city and get real time weather data
 
 ## Table of Contents
   * [Install](#install)
@@ -19,19 +19,19 @@
   * [Tests](#tests)
 
 ## Install
-  nope, its awesome
+  Just need a web browswer installed with internet connection
 
 ## Usage
-  Be Awesome!
+  Click on the given web link, the user enters in a city of their choice into the search form then clicks the search button.  After that results are displayed, and the city searched is displayed as a button.  When another city is searched, it is saved as a button too and when buttons are clicked, they will display that city weather data again.
 
 ## Licencse
-  The Awesome Licence
+  No licences
 
 ## Contributing
-  Some other very awesome people
+  No one else contributed
 
 ## Tests
-  The Awesome test
+  No tests
 
 # Author: Merkraith
 
